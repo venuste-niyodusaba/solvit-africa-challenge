@@ -1,0 +1,8 @@
+{
+  "user.name": "Alice",
+  "user.age": 25,
+  "user.address.city": "Paris",
+  "user.address.zip": 75001,
+  "active": true,
+  "roles": ["admin", "editor"]
+}
